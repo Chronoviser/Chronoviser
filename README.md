@@ -49,4 +49,4 @@ Hi there, I'm **Abhishek Singh**, a **Full Stack Android, Web and Desktop Applic
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=chronoviser&show_icons=true&hide_border=true)
 
 ⭐️ From [Chronoviser](https://github.com/Chronoviser)
-em> ~ projects down here ↓ ~ </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
+<em> projects down here ↓ ~ </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
