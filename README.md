@@ -19,13 +19,13 @@ Hi there, I'm **Abhishek Singh**, a **Full Stack Android, Web and Desktop Applic
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently upgrading my MERN skills;
-- 🌱 I’ve experience building scalable Android and Desktop Applications; 
-- 🤔 My Interests are with Application development be it Web, Desktop, or Android;
+- 👨🏽‍💻 I’m currently upgrading my MERN skills
+- 🌱 I’ve experience building scalable Android and Desktop Applications
+- 🤔 My Interests are with Application development be it Web, Desktop, or Android
 - 😶 My Favourite pass time is to THINK!
-- 💼 I’m pursuing a Bachelor's degree in Computer Science and Engineering.
-- 💬 Ask me about Tech & Coding, Startups, Mythology, Life & Death, I am happy to share what I've discovered so far;
-- 📫 Email at abhisheksinghoriginal@gmail.com to reach me.
+- 💼 I’m pursuing a Bachelor's degree in Computer Science and Engineering
+- 💬 Ask me about Tech & Coding, Startups, Mythology, Life & Death, I am happy to share what I've discovered so far
+- 📫 Email at abhisheksinghoriginal@gmail.com to reach me
 
 **Languages and Tools:**  
 
